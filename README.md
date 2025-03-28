@@ -1,1 +1,1 @@
-There's really no reason to clone this repository. Just pushing some of my Python homework to prove I'm still writing code. :)
+There's really no reason to clone this repository. Just pushing some of my Python homework to prove I'm still working on syntax and writing functional peices of code. :) I do appreciate files that show pseudocode, inputs, and outputs. It's a helpful way to break down large equations into smaller problems, which allows for builders to use small peices of functionality in order to build the bigger pictures. 
